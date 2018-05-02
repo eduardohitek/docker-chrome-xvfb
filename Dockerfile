@@ -1,4 +1,4 @@
-FROM node:8.11.1
+FROM node:latest
 MAINTAINER Damian Baćkowski <damianbackowski@gmail.com>
 
 ENV CHROME_PACKAGE="google-chrome-stable_66.0.3359.139-1_amd64.deb"
